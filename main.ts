@@ -1,6 +1,3 @@
-//% color="#AA278D"
-//% groups="['Buttons', 'Joystick']"
-//% block="Joystick:bit" icon="\uf11b";
 namespace JoyStickBit {
     
     /**

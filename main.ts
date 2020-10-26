@@ -1,5 +1,5 @@
 
-//% color=190 weight=100 icon="\gamepad" block="Basic Blocks"
+//% color="#AA278D"
 //% groups="['Buttons', 'Joystick']"
 namespace Joystickbit {
 	export enum Buttons {
@@ -17,7 +17,7 @@ namespace Joystickbit {
 
 	//% block
     //% group="Buttons"
-	export function HelloWorld(): void{
-		basic.showString("Hello!")
+	export function HelloWorld(){
+		basic.showString("Hello?")
 	}
 }

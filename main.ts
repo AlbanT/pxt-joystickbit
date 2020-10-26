@@ -1,7 +1,10 @@
+//% color="#AA278D"
+//% groups="['Buttons', 'Joystick']"
+//% block="Joystick:bit" icon="\uf11b";
 namespace JoyStickBit {
     
     /**
-     * The user selects the 4-way dc motor.
+     * The user selects the button.
      */
     export enum JoystickButtons {
         A = 0x1,

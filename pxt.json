@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "description": "",
+    "name": "Joystick:bit",
+    "description": "for using the elecfreaks joystick:bit gamecontroller",
     "dependencies": {
         "core": "*",
         "radio": "*"
